@@ -1,3 +1,5 @@
+// just for HTML routes
+
 const path = require("path")
 
 const router = require("express").Router()
